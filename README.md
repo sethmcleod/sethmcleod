@@ -4,8 +4,6 @@ Hey there! I have 7+ years of web and software development experience and a back
 
 Over the years I've worked my way further down the stack, working with tech like TypeScript, React, GraphQL and Node. I've dabbled in other languages and frameworks but web has always been my passion. Currently interested in Jamstack architecture and technology with a great developer experience, like Next.js, Tailwind.css, Chakra UI and React Query.
 
-I'm looking to be a part of a team that is hyper focused on creating delightful user experiences. Products must be human-friendly and ethical, no data farming or ad-based revenue. We can do better than that!
-
 If you'd like to chat, [email me](mailto:sethmcleod@pm.me), otherwise here are some links to other sites:
 
 [LinkedIn](https://www.linkedin.com/in/sethmcleod/) • [Twitter](https://twitter.com/sethcodes) • [Codementor](https://www.codementor.io/@seth) • [Keybase](https://keybase.io/sth)
