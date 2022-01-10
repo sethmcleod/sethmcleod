@@ -6,4 +6,4 @@ Over the years I've worked my way further down the stack, working with tech like
 
 If you'd like to chat, [email me](mailto:sethmcleod@pm.me), otherwise here are some links to other sites:
 
-[LinkedIn](https://www.linkedin.com/in/sethmcleod/) • [Twitter](https://twitter.com/sethcodes) • [Codementor](https://www.codementor.io/@seth) • [Keybase](https://keybase.io/sth)
+[LinkedIn](https://www.linkedin.com/in/sethmcleod/) • [Codementor](https://www.codementor.io/@seth) • [Keybase](https://keybase.io/sth)
